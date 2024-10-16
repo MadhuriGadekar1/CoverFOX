@@ -1,0 +1,8 @@
+coverFoxBase\Base.class
+coverFoxPOM\CoverFoxHealthPlanPage.class
+coverFoxUtility\Listener.class
+coverFoxPOM\CoverFoxmemberdetailsPage1.class
+coverFoxUtility\Utility.class
+coverFoxPOM\CoverFoxHomePage.class
+coverFoxPOM\CoverFoxaddressdetailsPage.class
+coverFoxPOM\CoverFoxResultPage.class

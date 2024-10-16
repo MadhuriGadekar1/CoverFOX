@@ -1,0 +1,35 @@
+2024-10-14 12:48:03,108 - Cover_Fox -INFO - Launching browser
+2024-10-14 12:48:04,758 - Cover_Fox -INFO - Clicking on Gender button 
+2024-10-14 12:48:04,818 - Cover_Fox -INFO - Clicking on Next button 
+2024-10-14 12:48:06,934 - Cover_Fox -INFO - Handling dropdown 
+2024-10-14 12:48:07,010 - Cover_Fox -INFO - Clicking on Next button 
+2024-10-14 12:48:10,151 - Cover_Fox -INFO - Enter pinCode 
+2024-10-14 12:48:10,294 - Cover_Fox -INFO - Enter mobile no 
+2024-10-14 12:48:10,381 - Cover_Fox -INFO - Clicking on Continue button 
+2024-10-14 12:48:13,459 - Cover_Fox -INFO - Closing Application
+2024-10-14 12:56:46,893 - Cover_Fox -INFO - Launching browser
+2024-10-14 12:56:48,578 - Cover_Fox -INFO - Clicking on Gender button 
+2024-10-14 12:56:48,637 - Cover_Fox -INFO - Clicking on Next button 
+2024-10-14 12:56:49,650 - Cover_Fox -WARN - Select valid AgeGroup
+2024-10-14 12:56:50,849 - Cover_Fox -INFO - Handling dropdown 
+2024-10-14 12:56:50,909 - Cover_Fox -INFO - Clicking on Next button 
+2024-10-14 12:56:53,916 - Cover_Fox -WARN - Enter valid PinCode
+2024-10-14 12:56:54,050 - Cover_Fox -INFO - Enter pinCode 
+2024-10-14 12:56:54,050 - Cover_Fox -WARN - Enter valid mobile number
+2024-10-14 12:56:54,202 - Cover_Fox -INFO - Enter mobile no 
+2024-10-14 12:56:54,202 - Cover_Fox -ERROR - Incorrect information
+2024-10-14 12:56:54,279 - Cover_Fox -INFO - Clicking on Continue button 
+2024-10-14 12:56:57,374 - Cover_Fox -INFO - Closing Application
+2024-10-14 16:55:09,620 - Cover_Fox -INFO - Launching browser
+2024-10-14 16:55:11,256 - Cover_Fox -INFO - Clicking on Gender button 
+2024-10-14 16:55:11,361 - Cover_Fox -INFO - Clicking on Next button 
+2024-10-14 16:55:12,368 - Cover_Fox -WARN - Select valid AgeGroup
+2024-10-14 16:55:13,889 - Cover_Fox -INFO - Handling dropdown 
+2024-10-14 16:55:13,970 - Cover_Fox -INFO - Clicking on Next button 
+2024-10-14 16:55:16,981 - Cover_Fox -WARN - Enter valid PinCode
+2024-10-14 16:55:17,227 - Cover_Fox -INFO - Enter pinCode 
+2024-10-14 16:55:17,227 - Cover_Fox -WARN - Enter valid mobile number
+2024-10-14 16:55:17,441 - Cover_Fox -INFO - Enter mobile no 
+2024-10-14 16:55:17,442 - Cover_Fox -ERROR - Incorrect information
+2024-10-14 16:55:17,550 - Cover_Fox -INFO - Clicking on Continue button 
+2024-10-14 16:55:20,660 - Cover_Fox -INFO - Closing Application

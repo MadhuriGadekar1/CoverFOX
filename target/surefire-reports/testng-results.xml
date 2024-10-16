@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launch Browser]]>
+    </line>
+    <line>
+      <![CDATA[waiting...]]>
+    </line>
+    <line>
+      <![CDATA[Click on gender button...]]>
+    </line>
+    <line>
+      <![CDATA[click on next button...]]>
+    </line>
+    <line>
+      <![CDATA[Handling age dropDown...]]>
+    </line>
+    <line>
+      <![CDATA[click on next button...]]>
+    </line>
+    <line>
+      <![CDATA[Enter a pinCode]]>
+    </line>
+    <line>
+      <![CDATA[Enter the mobile number...]]>
+    </line>
+    <line>
+      <![CDATA[Click on continue button.... ]]>
+    </line>
+    <line>
+      <![CDATA[Getting policy count from text Result...]]>
+    </line>
+    <line>
+      <![CDATA[Getting count from Banner...]]>
+    </line>
+    <line>
+      <![CDATA[TCvalidatePolicyCountis passed]]>
+    </line>
+    <line>
+      <![CDATA[closing browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-14T16:55:02 IST" name="Suite" finished-at="2024-10-14T16:55:21 IST" duration-ms="18787">
+    <groups>
+    </groups>
+    <test started-at="2024-10-14T16:55:02 IST" name="Test" finished-at="2024-10-14T16:55:21 IST" duration-ms="18787">
+      <class name="coverFoxTest.TC_123_CoverFox_ValidateBannnerCount">
+        <test-method is-config="true" signature="openApplication()[pri:0, instance:coverFoxTest.TC_123_CoverFox_ValidateBannnerCount@710c2b53]" started-at="2024-10-14T16:55:02 IST" name="openApplication" finished-at="2024-10-14T16:55:09 IST" duration-ms="7324" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launch Browser]]>
+            </line>
+            <line>
+              <![CDATA[waiting...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method is-config="true" signature="enterDetail()[pri:0, instance:coverFoxTest.TC_123_CoverFox_ValidateBannnerCount@710c2b53]" started-at="2024-10-14T16:55:09 IST" name="enterDetail" finished-at="2024-10-14T16:55:20 IST" duration-ms="10906" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on gender button...]]>
+            </line>
+            <line>
+              <![CDATA[click on next button...]]>
+            </line>
+            <line>
+              <![CDATA[Handling age dropDown...]]>
+            </line>
+            <line>
+              <![CDATA[click on next button...]]>
+            </line>
+            <line>
+              <![CDATA[Enter a pinCode]]>
+            </line>
+            <line>
+              <![CDATA[Enter the mobile number...]]>
+            </line>
+            <line>
+              <![CDATA[Click on continue button.... ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterDetail -->
+        <test-method signature="validatePolicyCount()[pri:0, instance:coverFoxTest.TC_123_CoverFox_ValidateBannnerCount@710c2b53]" started-at="2024-10-14T16:55:20 IST" name="validatePolicyCount" finished-at="2024-10-14T16:55:20 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Getting policy count from text Result...]]>
+            </line>
+            <line>
+              <![CDATA[Getting count from Banner...]]>
+            </line>
+            <line>
+              <![CDATA[TCvalidatePolicyCountis passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatePolicyCount -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:coverFoxTest.TC_123_CoverFox_ValidateBannnerCount@710c2b53]" started-at="2024-10-14T16:55:20 IST" name="closeApplication" finished-at="2024-10-14T16:55:21 IST" duration-ms="409" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- coverFoxTest.TC_123_CoverFox_ValidateBannnerCount -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
